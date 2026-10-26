@@ -31,6 +31,7 @@ This means that the model missed many diabetes-positive cases despite its relati
 The findings demonstrate why evaluating a classification model with multiple metrics is important, particularly when the target classes are imbalanced.
 ![TensorFlow Diabetes Confusion Matrix](images/confusion_matrix.png)
 
+
 Conclusion
 This project demonstrates an end-to-end deep-learning workflow for diabetes-status classification using TensorFlow.
 It includes data preprocessing, neural network development, model training, and evaluation. 
